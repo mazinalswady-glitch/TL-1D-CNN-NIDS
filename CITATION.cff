@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite this software using the DOI of the archived release."
+title: "Cross Domain CNN Transfer for Network Intrusion Detection"
+type: software
+authors:
+  - family-names: Hamid
+    given-names: Mazin Mohammed
+version: 1.0.0
